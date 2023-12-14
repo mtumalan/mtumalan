@@ -1,10 +1,10 @@
-Hi 👋 My name is Mau Tumalán
+Hi 👋 My name is Mau Tumalan
 ============================
 
 CS Student
 ----------
 
-Driven third-year CS student currently pursuing my undergraduate degree. My journey in the world of programming has been a thrilling adventure of learning, exploring, and building.
+Driven third-year student currently pursuing my undergraduate degree. My journey in the world of programming has been a thrilling adventure of learning, exploring, and building.
 
 * 🌍  I'm based in Mexico City
 * 🖥️  See my portfolio at [My GitHub Page](http://mtumalan.github.io)
