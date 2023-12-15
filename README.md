@@ -9,7 +9,7 @@ Driven third-year CS student currently pursuing my undergraduate degree. My jour
 * 🌍  I'm based in Mexico City
 * 🖥️  See my portfolio at [My GitHub Page](http://mtumalan.github.io)
 * ✉️  You can contact me at [mau@tumalan.com](mailto:mau@tumalan.com)
-* 🧠  I'm learning data structures and algorithms
+* 🧠  I'm mastering data structures and algorithms
 * 🤝  I'm open to collaborating on cool projects
 
 ### Skills
