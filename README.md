@@ -1,16 +1,15 @@
 Hi 👋 My name is Mau Tumalan
 ============================
 
-CS Student
+Full-Stack Developer | Computer Science and Technology Student
 ----------
 
-Driven third-year student currently pursuing my undergraduate degree. My journey in the world of programming has been a thrilling adventure of learning, exploring, and building.
+Full-Stack Developer with a strong inclination towards Front-End development, currently in my third year of studying a B.S. in Computer Science and Technology at Tecnológico de Monterrey. My passion for software development is reflected in my commitment to building robust, scalable, and user-centered applications, using cutting-edge technologies and best practices in the industry.
 
 * 🌍  I'm based in Mexico City
 * 🖥️  See my portfolio at [My GitHub Page](http://mtumalan.github.io)
 * ✉️  You can contact me at [mau@tumalan.com](mailto:mau@tumalan.com)
 * 🧠  I'm mastering data structures and algorithms
-* 🤝  I'm open to collaborating on cool projects
 
 ### Skills
 
@@ -22,7 +21,7 @@ Driven third-year student currently pursuing my undergraduate degree. My journey
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/mtumalan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/mtumalan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mtumalan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/mtumalan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a><a href="https://www.linkedin.com/in/mtumalan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
