@@ -9,7 +9,6 @@ Full-Stack Developer with a strong inclination towards Front-End development, cu
 * 🌍  I'm based in Mexico City
 * 🖥️  See my portfolio at [My GitHub Page](http://mtumalan.github.io)
 * ✉️  You can contact me at [mau@tumalan.com](mailto:mau@tumalan.com)
-* 🧠  I'm mastering data structures and algorithms
 
 ### Skills
 
