@@ -4,7 +4,7 @@ Hi 👋 My name is Mau Tumalan
 Full-Stack Developer | Computer Science and Technology Student
 ----------
 
-Full-Stack Developer with a strong inclination towards Front-End development, currently in my third year of studying a B.S. in Computer Science and Technology at Tecnológico de Monterrey. My passion for software development is reflected in my commitment to building robust, scalable, and user-centered applications, using cutting-edge technologies and best practices in the industry.
+Full-Stack Developer currently in my fourth year of studying a B.S. in Computer Science and Technology at Tecnológico de Monterrey. My passion for software development is reflected in my commitment to building robust, scalable, and user-centered applications, using cutting-edge technologies and best practices in the industry.
 
 * 🌍  I'm based in Mexico City
 * 🖥️  See my portfolio at [My GitHub Page](http://mtumalan.github.io)
