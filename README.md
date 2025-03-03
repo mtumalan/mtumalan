@@ -12,11 +12,11 @@ My passion for software development is reflected in my commitment to building ro
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages & Markup
 [![Languages](https://skillicons.dev/icons?i=py,cs,js,ts,html,css)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=django,nextjs,react,vue)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=django,nodejs,nextjs,bootstrap,react,vue)](https://skillicons.dev)
 
 ### 🧪 Testing
 [![Testing](https://skillicons.dev/icons?i=cypress,selenium)](https://skillicons.dev)
